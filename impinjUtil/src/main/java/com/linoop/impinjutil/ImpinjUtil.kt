@@ -19,7 +19,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import java.lang.Exception
 
-class ImpinjUtil(
+internal class ImpinjUtil(
     private val context: Context,
     private val readerListener: ReaderListener,
     private val gson: Gson
