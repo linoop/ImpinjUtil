@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--<color name="button_normal_color">#BDD755</color>
+    <color name="button_active_color">#d4ed6f</color>-->
+    <color name="button_normal_color">#333</color>
+    <color name="button_active_color">#008c6a</color>
+    <color name="text_dark_color">#333</color>
+    <color name="mns_dark_color">#005641</color>
+    <color name="text_dark_light_color">#005641</color>
+
+    <color name="theme_color">#404080</color>
+    <color name="colorAccent">#00A5FF</color>
+    <color name="iconColor">#03a1fc</color>
+    <color name="textIconColor">#610000</color>
+    <color name="lightBackgroundColor">#f0f0f0</color>
+    <color name="colorPrimary">#1F5BF3</color>
+    <color name="colorPrimaryDark">#0947E8</color>
+    <color name="colorSecondary">#0065ff</color>
+
+    <!--Basic Colors-->
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorRed">#F60000</color>
+    <color name="colorGreen">#00FF00</color>
+    <color name="colorOrange">#FFA500</color>
+    <color name="colorAccentDark">#808080</color>
+    <color name="colorActionBar">#3b5998</color>
+    <color name="colorMetallicYellow">#FDCC0D</color>
+    <color name="colorSilver">#C0C0C0</color>
+    <color name="colorGold">#D4AF37</color>
+    <color name="errorColor">#dd2c00</color>
+    <color name="progress">#b71c1c</color>
+    <color name="colorScan">#ffbb00</color>
+</resources>

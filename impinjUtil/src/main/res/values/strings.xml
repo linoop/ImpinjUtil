@@ -1,0 +1,193 @@
+<resources>
+    <string name="app_name">DC HU Verification</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Login failed</string>
+
+    <string name="confirm_logout">Confirm Logout</string>
+    <string name="confirm_logout_msg">Are you sure you want to logout</string>
+
+    <string name="technowave">Technowave ID Systems</string>
+    <string name="next">Next</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="login">Sign in</string>
+    <string name="user_id">User ID</string>
+    <string name="password">Password</string>
+    <string name="select_store">Select Store</string>
+    <string name="select_location">Select Location</string>
+    <string name="select_device">Select Device</string>
+    <string name="order_number">Order No</string>
+    <string name="sign_in">Sign in</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="pick_order">Pick Order</string>
+    <string name="confirm">Confirm</string>
+    <string name="print_label">Print Label</string>
+    <string name="order_status">Order Status</string>
+    <string name="item_search">Item Search</string>
+    <string name="order_picking">Picking Items</string>
+    <string name="select_status">Select Status</string>
+    <string name="barcode">Barcode</string>
+    <string name="scan_upc_ean_code">Scan UPC/EAN code</string>
+    <string name="picking">Picking</string>
+    <string name="attributes">Attributes</string>
+    <string name="locations">Locations</string>
+    <string name="location">Location</string>
+    <string name="upc">UPC</string>
+    <string name="sku">SKU</string>
+    <string name="total_quantity">Tot Qty</string>
+    <string name="order_quantity">Order Qty</string>
+    <string name="order">Order</string>
+    <string name="picked">Picked</string>
+    <string name="_short">Short</string>
+    <string name="upc_sku">UPC/SKU</string>
+    <string name="stock">Stock</string>
+    <string name="item">Item</string>
+    <string name="color">Color</string>
+    <string name="size">Size</string>
+    <string name="image">Image</string>
+    <string name="pending_order">Pending Orders</string>
+    <string name="completed_order">Completed Orders</string>
+    <string name="show_status">Show Status</string>
+    <string name="no_item">No details available</string>
+    <string name="no_pending_orders">No pending orders</string>
+    <string name="no_orders">No orders</string>
+    <string name="no_completed_orders">No completed orders</string>
+    <string name="no_location_details">No location details available</string>
+    <string name="api_settings">API Settings</string>
+    <string name="base_url">Base url</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="base_url_helper_text">http://example.com/mands.asmx/</string>
+    <string name="baseUrlCanNotEmpty">Base url cannot be empty</string>
+    <string name="userIDCanNotEmpty">UserID cannot be empty</string>
+    <string name="passwordCanNotEmpty">Password cannot be empty</string>
+    <string name="confirm_exit">Confirm Exit</string>
+    <string name="exit_question">Are you sure you want to exit?</string>
+    <string name="config_manager">Configuration Manager</string>
+    <string name="invalid_store">Invalid Store</string>
+    <string name="invalid_store_location">Invalid Store Location</string>
+    <string name="invalid_device">Invalid Device</string>
+    <string name="invalid_order_no">Invalid Order Number</string>
+    <string name="invalid_status">Invalid Status</string>
+    <string name="store">Store</string>
+    <string name="device">Device</string>
+    <string name="order_process">Order Process</string>
+
+    <string name="config_miss_data">Store details not available</string>
+    <string name="stock_details">Stock Details</string>
+    <string name="stock_take">Stock Take</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="wifi_image">Wifi Image</string>
+    <string-array name="order_status">
+        <item>Pending</item>
+        <item>Completed</item>
+    </string-array>
+
+    <string name="downloading">Downloading</string>
+    <string name="update_title">M&amp;S Update</string>
+    <string name="storage_access_required">Storage access is required to downloading the file.</string>
+    <string name="storage_permission_denied">Storage permission request was denied.</string>
+    <string name="ok">OK</string>
+    <string name="bulletin">&#8227;</string>
+    <string name="reader_ip_address">Reader IP Address</string>
+    <string name="dc_inbound">DC Inbound</string>
+    <string name="trip">*Trip</string>
+    <string name="trip_number">Trip Number</string>
+    <string name="box_exp">Box Exp</string>
+    <string name="scanned">Scanned</string>
+    <string name="balance">Balance</string>
+    <string name="scan_hu_box">*HU/Box</string>
+    <string name="invoice_number">Invoice Number</string>
+    <string name="asn">*ASN</string>
+    <string name="expected">Expected</string>
+    <string name="shortage">Shortage</string>
+    <string name="rescan">Rescan</string>
+    <string name="end_asn">End ASN</string>
+    <string name="end_trip">End Trip</string>
+    <string name="excess">Excess</string>
+    <string name="alien">Alien</string>
+    <string name="damaged">Damaged</string>
+    <string name="server_error">Server Error</string>
+    <string name="data_fetch_error">Data Fetch Error</string>
+    <string name="error">Error</string>
+    <string name="ip_address">Example: 192.168.1.123</string>
+    <string name="read_ip_empty_error">Reader IP cannot be empty</string>
+    <string name="reset_timer">Reset Timer</string>
+    <string name="tx_power">TxPower</string>
+    <string name="rx_sensitivity">RxSensitivity</string>
+    <string name="milliseconds">Milliseconds</string>
+    <string name="dc_hu_verification">DC HU Verification</string>
+    <string name="choose_antenna">Choose antenna</string>
+    <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
+    <string name="hu">HU#</string>
+    <string name="sku_expected">SKU Expected</string>
+    <string name="sku_scanned">SKU Scanned</string>
+    <string name="item_expected">Item Expected</string>
+    <string name="item_scanned">Item Scanned</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="reset">Reset</string>
+
+    <string name="admin_login">Admin Login</string>
+    <string name="change_password">Change password?</string>
+    <string name="password_reset">Password Reset</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="general_settings">General Settings</string>
+    <string name="reader_settings">Reader Settings</string>
+    <string name="conveyor_settings">Conveyor Settings</string>
+    <string name="reader_start_delay">Reader start delay</string>
+
+
+    <string-array name="antenna_port_list">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="reader_start_delay_value_list">
+        <item>2500</item>
+        <item>3000</item>
+        <item>3500</item>
+        <item>4000</item>
+        <item>4500</item>
+        <item>5000</item>
+        <item>5500</item>
+        <item>6000</item>
+    </string-array>
+    <string-array name="reading_duration_value_list">
+        <item>5500</item>
+        <item>6000</item>
+        <item>6500</item>
+        <item>7000</item>
+        <item>7500</item>
+        <item>8000</item>
+        <item>8500</item>
+        <item>9000</item>
+    </string-array>
+    <string-array name="arr_tx_power">
+        <item>5.0</item>
+        <item>10.0</item>
+        <item>15.0</item>
+        <item>20.0</item>
+        <item>25.0</item>
+        <item>30.0</item>
+    </string-array>
+    <string-array name="arr_rx_sensitivity">
+        <item>-20.0</item>
+        <item>-30.0</item>
+        <item>-40.0</item>
+        <item>-50.0</item>
+        <item>-60.0</item>
+        <item>-70.0</item>
+    </string-array>
+
+</resources>
