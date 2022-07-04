@@ -19,7 +19,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import java.lang.Exception
 
-internal class ImpinjUtil(
+class ImpinjUtil(
     private val context: Context,
     private val readerListener: ReaderListener,
     private val gson: Gson
@@ -181,7 +181,7 @@ internal class ImpinjUtil(
     }
 
     fun disconnectReader() {
-        CoroutineScope(Dispatchers.IO).launch  {
+        CoroutineScope(Dispatchers.IO).launch {
             if (isConnected) {
                 reader.disconnect()
                 isConnected = false
